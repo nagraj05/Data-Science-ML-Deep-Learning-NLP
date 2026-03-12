@@ -1,0 +1,6 @@
+ML, NLP, MLOPS
+MLFlow
+DVC
+BENTOML
+ML Algorithms: Linear Regression, Decesion tree, random forest, svm, naive baye's
+NLP, Neural networks
